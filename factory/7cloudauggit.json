@@ -1,0 +1,9 @@
+{
+	"name": "7cloudauggit",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a79a6c32-3def-4bc4-84db-5e6e830f8cdf",
+		"tenantId": "2812b05d-a482-474b-b284-0b0286f3f6d6"
+	}
+}
